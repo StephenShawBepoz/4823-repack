@@ -14,7 +14,7 @@
 $GitHubOwner = 'StephenShawBepoz'
 $GitHubRepo  = '4823-repack'
 $AssetName   = 'Update.zip'
-$TargetDir   = 'C:\Bepoz\New Version'
+$TargetDir   = 'C:\Bepoz\NewVersion'
 # -----------------------------------------------------------------------------
 
 $ErrorActionPreference = 'Stop'
